@@ -9,6 +9,7 @@ One such serverless computing service is **AWS Lambda**
 Lambda is one of serverless service available in AWS.
 You just need to upload source code and Lambda takes care of rest of things. 
 For creating successful Lambda function , you need source code , trigger and configuration.
+
 **Picture need to be inserted - AWS Lambda Working Explanation**
 
 **Code** can be created by three ways
@@ -32,5 +33,7 @@ The name of Lambda function will be derived from two things
 For example : resize.lambda_function where resize is name of file location & lambda_function is name of python function.
 
 It has 1ms billing granularity.
+
+
 
 

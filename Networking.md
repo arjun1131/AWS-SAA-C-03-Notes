@@ -22,5 +22,7 @@ Inside VPCs, we will having subnets. Subnets are used to give granual controls t
 3. Availability Zones
 
 **Internet Gateway :** For connecting with Internet , we need Internet Gateway and it should be attach with VPC.
+
 **Virtual Private Gateway :** A virtual private gateway connects your AWS VPC to another private network. Once you create and attach a virtual private gateway to a VPC, the gateway acts as anchor on the AWS side of the connection. A customer gateway device is a physical device or software application on your side of the connection
 
+For accessing correct subnets, we need to create route table which has rules for subnets 

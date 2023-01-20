@@ -16,4 +16,11 @@ For creating Amazon VPC , we need to declare two things.
 1. Region
 2. IP Range
 
-Inside VPCs, we will having subnets. Subnets are used to give granual controls to resources.
+Inside VPCs, we will having subnets. Subnets are used to give granual controls to resources. We need 3 things to create subnets
+1. IP Range(Subset of VPC IP)
+2. VPC
+3. Availability Zones
+
+**Internet Gateway :** For connecting with Internet , we need Internet Gateway and it should be attach with VPC.
+**Virtual Private Gateway :** A virtual private gateway connects your AWS VPC to another private network. Once you create and attach a virtual private gateway to a VPC, the gateway acts as anchor on the AWS side of the connection. A customer gateway device is a physical device or software application on your side of the connection
+

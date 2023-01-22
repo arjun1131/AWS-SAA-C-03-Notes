@@ -10,7 +10,7 @@ Lambda is one of serverless service available in AWS.
 You just need to upload source code and Lambda takes care of rest of things. 
 For creating successful Lambda function , you need source code , trigger and configuration.
 
-![AWS Lambda Working Explanation](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/AWS%20Lambda%20Explanation.PNG)
+![AWS Lambda Working Explanation](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/AWS%20Lambda%20Working%20Explanation.PNG)
 
 **Code** can be created by three ways
 1. You can create from scratch.
@@ -21,7 +21,7 @@ For creating successful Lambda function , you need source code , trigger and con
 A trigger integrates your Lambda function with other AWS services, enabling you to run your Lambda function in response to certain API calls that occur in your AWS account.
 This increases your ability to respond to events in your console without having to perform manual actions.
 
-**Picture to be inserted - AWS Lambda Explanation**
+![AWS Lambda Explanation](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/AWS%20Lambda%20Explanation.PNG)
 
 AWS Lambda function handler is method which invokes Lambda function once it receives trigger.
 When your function is invoked, Lambda runs the handler method. When the handler exits or returns a response, it becomes available to handle another event. 

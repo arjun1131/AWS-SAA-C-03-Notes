@@ -10,7 +10,7 @@ Lambda is one of serverless service available in AWS.
 You just need to upload source code and Lambda takes care of rest of things. 
 For creating successful Lambda function , you need source code , trigger and configuration.
 
-**Picture need to be inserted - AWS Lambda Working Explanation**
+![AWS Lambda Working Explanation](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/AWS%20Lambda%20Explanation.PNG)
 
 **Code** can be created by three ways
 1. You can create from scratch.

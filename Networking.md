@@ -25,4 +25,22 @@ Inside VPCs, we will having subnets. Subnets are used to give granual controls t
 
 **Virtual Private Gateway :** A virtual private gateway connects your AWS VPC to another private network. Once you create and attach a virtual private gateway to a VPC, the gateway acts as anchor on the AWS side of the connection. A customer gateway device is a physical device or software application on your side of the connection
 
-For accessing correct subnets, we need to create route table which has rules for subnets 
+For accessing correct subnets, we need to create route table which has rules for subnets. There are 2 route tables 
+1. Main route table
+2. Custom route table
+
+### Main route table :
+  When an Amazon VPC is created , it will create it a route table which contains set of rules called routes, that are used to determine where network traffic is directed.
+  **The default configuration of the main route table is to allow traffic between all subnets in the local network**
+  
+  The destination and target are two main parts of this route table.
+
+   1. The destination is a range of IP addresses where you want your traffic to go. In the example of sending a letter, you need a destination to route the letter to the appropriate place. The same is true for routing traffic. In this case, the destination is the VPC network's IP range.
+   2. The target is the connection through which to send the traffic. In this case, the traffic is routed through the local VPC network.
+
+### Custom route table :
+  If you associate a custom route table with a subnet, the subnet will use it instead of the main route table. Each custom route table you create will have the local route already inside it, allowing communication to flow between all resources and subnets inside the VPC. The local route cannot be deleted.
+  
+  ![Route Tables](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/Route%20tables.PNG)
+  
+  

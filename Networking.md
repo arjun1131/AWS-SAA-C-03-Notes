@@ -44,3 +44,10 @@ For accessing correct subnets, we need to create route table which has rules for
   ![Route Tables](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/Route%20tables.PNG)
   
   
+## Security of VPC resources:
+
+There are two types of security
+1. Network ACL
+2. Security groups
+
+### Network ACL:

@@ -51,3 +51,22 @@ There are two types of security
 2. Security groups
 
 ### Network ACL:
+1. It's default firewall option, it can be customized.
+2. Default ACL will allow all traffic inside & outside of subnet.
+3. It's stateless , if we are changing inbound we have to change outbound rules also. 
+
+### Security groups:
+1. It's firewall within EC2 instance level.
+2. Every time we create EC2 instance we have to add them in security groups
+3. Default group will block all inbound traffic & allow all outbound traffic.
+
+
+### Steps to create VPC & Firewalls:
+1. Create a VPC with Public & Private subnets
+2. Create a internet gateway - used for commuhnication between instances
+3. Create a NAT gateway - used for internet connectivity
+4. Create a public & private subnets on another availability regions
+5. Create Route tables (Public & Private)
+6. Create Security group
+7. Create EC2 instance with VPC network we created before.
+8. Select Security group which we created for EC2 instance

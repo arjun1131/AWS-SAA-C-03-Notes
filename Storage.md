@@ -28,5 +28,7 @@ Generally , storage are broadly classified into
   
   ![EBS Types](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/EBS_Types.png)
   
+  ## 
+  
   
 

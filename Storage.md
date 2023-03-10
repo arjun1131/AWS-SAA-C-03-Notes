@@ -45,7 +45,7 @@ Generally , storage are broadly classified into
   ### Amazon S3 versioning:
   If you don’t use Amazon S3 versioning, every time you upload an object called employee.jpg to the employees folder, it will overwrite the original file.<br>
   If you enable versioning for a bucket, Amazon S3 automatically generates a unique version ID for the object.<br>
-  Buckets can be in one of the following three states:
+  Buckets can be in one of the following three states:<br>
     1. Unversioned (default): No new and existing objects in the bucket have a version.<br>
     2. Versioning-enabled: Versioning is enabled for all objects in the bucket.<br>
     3. Versioning-suspended: Versioning is suspended for new objects. All new objects in the bucket will not have a version. However, all existing objects keep their object versions.<br>

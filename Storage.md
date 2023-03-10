@@ -36,8 +36,18 @@ Generally , storage are broadly classified into
   
   ![S3 URL](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/S3%20URL.png)
   
+  Every thing in S3 is private. If you want to make it public, you have to add it as public resource where everyone in internet can see.
   
+  ### Amazon S3 encryption:
+  **Server-side encryption:** This allows Amazon S3 to encrypt your object before saving it on disks in its data centers and then decrypt it when you download the objects.<br>
+  **Client-side encryption:** You can encrypt your data client-side and then upload the encrypted data to Amazon S3. In this case, you manage the encryption process, the encryption keys, and all related tools.<br>
   
-  
+  ### Amazon S3 versioning:
+  If you don’t use Amazon S3 versioning, every time you upload an object called employee.jpg to the employees folder, it will overwrite the original file.<br>
+  If you enable versioning for a bucket, Amazon S3 automatically generates a unique version ID for the object.<br>
+  Buckets can be in one of the following three states:
+    1. Unversioned (default): No new and existing objects in the bucket have a version.<br>
+    2. Versioning-enabled: Versioning is enabled for all objects in the bucket.<br>
+    3. Versioning-suspended: Versioning is suspended for new objects. All new objects in the bucket will not have a version. However, all existing objects keep their object versions.<br>
   
 

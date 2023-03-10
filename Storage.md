@@ -28,7 +28,16 @@ Generally , storage are broadly classified into
   
   ![EBS Types](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/EBS_Types.png)
   
-  ## 
+  ## Amazon S3 :
+  
+  In S3, containers are called as buckets. Before adding data , we have to create buckets first.<br>
+  You need two details to create bucket – the AWS Region you want the bucket to reside in and the bucket name.<br>
+  Level of redundancy is designed to provide Amazon S3 customers with 99.999999999% durability and 99.99% availability for objects over a given year.<br>
+  
+  ![S3 URL](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/S3%20URL.png)
+  
+  
+  
   
   
 

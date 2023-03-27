@@ -1,6 +1,3 @@
-For monitoring , AWS has application named **"Amazon CloudWatch"** <br>
-Amazon CloudWatch is a monitoring and observability service that collects data & provides actionable insights into your applications, and enables you to respond to system-wide performance changes, optimize resource usage, and get a unified view of operational health.<br>
-
 #### Benefits of Monitoring :<br>
 1. Respond to operational issues proactively before your end users are aware of them.<br>
 2. Improve the performance and reliability of your resources.<br>
@@ -8,6 +5,10 @@ Amazon CloudWatch is a monitoring and observability service that collects data &
 4. Make data-driven decisions for your business.<br>
 5. Create more cost-effective solutions.<br>
 
+For monitoring , AWS has application named **"Amazon CloudWatch"** <br>
+Amazon CloudWatch is a monitoring and observability service that collects data & provides actionable insights into your applications, and enables you to respond to system-wide performance changes, optimize resource usage, and get a unified view of operational health.<br>
+
+![CloudWatch Working](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/CloudWatch.PNG)
 
 
 

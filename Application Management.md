@@ -18,5 +18,15 @@ Amazon CloudWatch is a monitoring and observability service that collects data &
 5. Troubleshoot issues<br>
 6. Discover insights to keep your applications healthy<br>
 
+**All instance level metrics will be collected by CloudWatch automatically**<br>
+
+**Custom metrics** will publish our own metrics.<br>
+Examples of Custom metrics :<br>
+1. Web page load times<br>
+2. Request error rates<br>
+3. Number of processes or threads on your instance<br>
+4. Amount of work performed by your application<br>
+
+
 
 

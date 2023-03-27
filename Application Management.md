@@ -10,5 +10,13 @@ Amazon CloudWatch is a monitoring and observability service that collects data &
 
 ![CloudWatch Working](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/CloudWatch.PNG)
 
+#### Use cases of CloudWatch:<br>
+1. Detect anomalous behavior in your environments<br>
+2. Set alarms to alert you when something is not right<br>
+3. Visualize logs and metrics with the AWS Management Console<br>
+4. Take automated actions like scaling<br>
+5. Troubleshoot issues<br>
+6. Discover insights to keep your applications healthy<br>
+
 
 

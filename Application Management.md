@@ -27,6 +27,7 @@ Examples of Custom metrics :<br>
 3. Number of processes or threads on your instance<br>
 4. Amount of work performed by your application<br>
 
-
-
-
+## CloudWatch Dashboards:
+Dashboards are customizable home pages that you use for data visualization for one or more metrics through the use of widgets, such as a graph or text.<br>
+CloudWatch aggregates statistics according to the period of time that you specify when creating your graph or requesting your metrics. You can also choose whether your metric widgets display live data. Live data is data published within the last minute that has not been fully aggregated.<br>
+You can control who has access to view or manage your CloudWatch dashboards through AWS Identity and Access Management (IAM) policies that get associated with IAM users, IAM groups, or IAM roles.<br>

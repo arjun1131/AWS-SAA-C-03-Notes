@@ -40,3 +40,11 @@ Log event: A log event is a record of activity recorded by the application or re
 Log streams : It's group of log events which belongs to same resource.<br>
 Log groups: It's group of log streams of resources which has same permission settings.<br>
 
+
+## CloudWatch alarms:
+It can automatically initate a trigger or sending out information to certain admins when any metric is crossing its threshold value.
+It has three stages<br>
+1. OK - Everything on that particular metric is smooth<br>
+2. Insufficient - state where CloudWatch don't have data to decide anything <br>
+3. In alarm - Particular metric is gone behind threshold value given.<br>
+

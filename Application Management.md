@@ -31,3 +31,12 @@ Examples of Custom metrics :<br>
 Dashboards are customizable home pages that you use for data visualization for one or more metrics through the use of widgets, such as a graph or text.<br>
 CloudWatch aggregates statistics according to the period of time that you specify when creating your graph or requesting your metrics. You can also choose whether your metric widgets display live data. Live data is data published within the last minute that has not been fully aggregated.<br>
 You can control who has access to view or manage your CloudWatch dashboards through AWS Identity and Access Management (IAM) policies that get associated with IAM users, IAM groups, or IAM roles.<br>
+
+## CloudWatch Logs:
+CloudWatch Logs can monitor, store, and access your log files from applications running on Amazon EC2 instances, AWS Lambda functions, and other sources.<br>
+CloudWatch Logs allows you to query and filter your log data. You also set up metric filters on logs, which turn log data into numerical CloudWatch metrics that you can graph and use on your dashboards.<br>
+#### Terminology used in Logs:
+Log event: A log event is a record of activity recorded by the application or resource being monitored, and it has a timestamp and an event message.<br>
+Log streams : It's group of log events which belongs to same resource.<br>
+Log groups: It's group of log streams of resources which has same permission settings.<br>
+

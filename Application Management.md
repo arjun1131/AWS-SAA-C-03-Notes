@@ -48,3 +48,8 @@ It has three stages<br>
 2. Insufficient - state where CloudWatch don't have data to decide anything <br>
 3. In alarm - Particular metric is gone behind threshold value given.<br>
 
+To improve application availability , we should avoid single point of failure by adding another instance in another AZ.<br>
+Scaling of EC2 instance can be done in two ways.<br>
+1. Horizontal - Adding n number of instances<br>
+2. Vertical - Increasing EC2 instance size<br>
+

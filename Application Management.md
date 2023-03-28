@@ -53,3 +53,14 @@ Scaling of EC2 instance can be done in two ways.<br>
 1. Horizontal - Adding n number of instances<br>
 2. Vertical - Increasing EC2 instance size<br>
 
+### Load Balancing :
+
+![Load Balancer](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/Load%20Balancer.PNG)
+
+Load balancer is used to send requests to instances with respect of their load status.
+There are 3 load balancer 
+1. Application Load Balancer - Works on application layer (http/https) 
+2. Network Load Balancer - Works on Network layer(TCP/IP/TLS)
+3. Gateway Load balancer - Works on Gateway level
+
+

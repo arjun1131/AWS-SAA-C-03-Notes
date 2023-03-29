@@ -12,3 +12,7 @@ I am using AWS SkillBuilder for learning. As per skillbuilder's learning path
   * [AWS Storage](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/Storage.md)
   * [AWS Databases](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/Databases.md)
   * [Application Monitoring](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/Application%20Management.md)
+
+## Chapter 2 - AWS Security, Identity, and Compliance:
+
+  

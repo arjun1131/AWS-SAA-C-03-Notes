@@ -18,8 +18,19 @@ The framework consists of six pillars
 
 ![Framework](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/6%20pillars%20of%20AWS.png)
 
-# Security :<br>
+## Security :<br>
 
 The security pillar is made up of five different areas for security in the cloud. All AWS security services can be categorized by these five areas.
 
 ![Security](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/AWS%20Security.png)
+
+## Identity and Access Management :<br>
+
+**Authentication** - Process of validating users are who they are claim to be. Ex : Logging into web by password<br>
+**Authorization** - Process of giving the user permission to access a specific resource or function.<br>
+
+# AWS Services for Identity & Access Management :
+
+## AWS IAM :
+
+

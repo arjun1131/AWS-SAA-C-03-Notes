@@ -13,3 +13,7 @@
 7. Prepare for security events.<br>
 
 # AWS Well Architected Framework:
+
+The framework consists of six pillars 
+
+![Framework](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/6%20pillars%20of%20AWS.png)

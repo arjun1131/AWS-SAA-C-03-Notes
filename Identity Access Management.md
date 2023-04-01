@@ -33,4 +33,7 @@ The security pillar is made up of five different areas for security in the cloud
 
 ## AWS IAM :
 
-
+1. IAM services are used to create roles , users and permissions. IAM users can be created from root account and users can use AWS services which they are authorized to. <br>
+2. IAM provides the granularity to control a user’s access to specific AWS services and resources using permissions.<br>
+3. Grant only least privilege to each IAM entity by starting with no access and gradually granting appropriate rights.<br>
+4. IAM is integrated into most AWS services.<br>

@@ -37,3 +37,10 @@ The security pillar is made up of five different areas for security in the cloud
 2. IAM provides the granularity to control a user’s access to specific AWS services and resources using permissions.<br>
 3. Grant only least privilege to each IAM entity by starting with no access and gradually granting appropriate rights.<br>
 4. IAM is integrated into most AWS services.<br>
+
+## Amazon Cognito for Mobile Authencation :
+
+1. Amazon Cognito is authencation service which used on mobiles, it creates unique pools and identity for users.<br>
+2. Amazon Cognito supports MFA and encryption of data at rest and data in transit, meeting compliance requirements from several compliance organizations.<br>
+
+![Cognito](

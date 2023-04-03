@@ -43,4 +43,10 @@ The security pillar is made up of five different areas for security in the cloud
 1. Amazon Cognito is authencation service which used on mobiles, it creates unique pools and identity for users.<br>
 2. Amazon Cognito supports MFA and encryption of data at rest and data in transit, meeting compliance requirements from several compliance organizations.<br>
 
-![Cognito](
+![Cognito](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/Cognito.PNG)
+
+How mobile authencation works ?
+
+![Working](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/Cognito%20-%20Use%20case.PNG)
+
+

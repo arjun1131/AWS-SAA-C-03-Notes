@@ -8,4 +8,5 @@ There are seven types of EC2 instances
 6. Instance features
 7. Measuring instance performance
 
-![naming](
+![naming](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/EC2%20naming.png)
+

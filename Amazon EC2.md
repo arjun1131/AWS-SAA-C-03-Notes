@@ -20,8 +20,14 @@ The use cases are general purpose like computing small tasks
 These instances are used on tasks which requires high performance guaranteed. 
 The use cases are Batch processing workloads & Media transcoding
 
-### Memory Optimized : 
+### Memory Optimized : (R)
 These instances are used on tasks where we need to process large data sets in memory.
 The use cases are relational DBs,non relational DBs and In memory databases optimized for BI
 Applications performing real time processing of unstructured data.
+
+### Storage Optimized :
+These instances are used on storage intensive tasks that requires high , sequential read and write access to large data.
+The use cases are High frequency OLTP systems, Cache for in memory databases & Distributed file systems
+
+### 
 

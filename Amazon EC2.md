@@ -12,12 +12,16 @@ There are seven types of EC2 instances
 
 ![naming](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/EC2%20naming.png)
 
-### General Purpose :
+### General Purpose :(t)
 It will be having complete balance on Compute , Networking , Memory.
+The use cases are general purpose like computing small tasks
 
-### Compute Optimized :
+### Compute Optimized : (C)
 These instances are used on tasks which requires high performance guaranteed. 
 The use cases are Batch processing workloads & Media transcoding
 
-### 
+### Memory Optimized : 
+These instances are used on tasks where we need to process large data sets in memory.
+The use cases are relational DBs,non relational DBs and In memory databases optimized for BI
+Applications performing real time processing of unstructured data.
 

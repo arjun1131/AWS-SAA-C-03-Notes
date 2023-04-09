@@ -29,5 +29,7 @@ Applications performing real time processing of unstructured data.
 These instances are used on storage intensive tasks that requires high , sequential read and write access to large data.
 The use cases are High frequency OLTP systems, Cache for in memory databases & Distributed file systems
 
-### 
+## SSH in EC2 instance :
+
+It allows you to ocntrol a remote machine with command line.
 

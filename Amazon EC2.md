@@ -41,3 +41,27 @@ You can connect SSH for EC2 instance via Putty for Windows , EC2 instance connec
 ### EC2 On Demand :
 
 ![On Demand](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/EC2%20On%20Demand.PNG)
+
+### Reserved Instances :
+
+![Reserved](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/EC2%20Reserved.PNG)
+
+### EC2 Savings Plans :
+
+![Savings](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/EC2%20Savings.PNG)
+
+### EC2 Spot Instances :
+
+![Spot](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/EC2%20Spot%20Instances.PNG)
+
+### EC2 Dedicated Hosts :
+
+![Dedicated Host](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/EC2%20Dedicated%20Host.PNG)
+
+### EC2 Dedicated Instances :
+
+![Dedicated instance](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/EC2%20Dedicated%20Instances.PNG)
+
+### EC2 Capacity Reservations :
+
+![Capacity Reservations](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/EC2%20Capacity%20Reservations.PNG)

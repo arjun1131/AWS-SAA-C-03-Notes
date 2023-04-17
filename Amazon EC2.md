@@ -32,4 +32,8 @@ The use cases are High frequency OLTP systems, Cache for in memory databases & D
 ## SSH in EC2 instance :
 
 It allows you to ocntrol a remote machine with command line.
+You can connect SSH for EC2 instance via Putty for Windows , EC2 instance connect for both Linux & Windows.
+
+### EC2 instance purchasing options :
+
 

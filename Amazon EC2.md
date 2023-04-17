@@ -37,3 +37,7 @@ You can connect SSH for EC2 instance via Putty for Windows , EC2 instance connec
 ### EC2 instance purchasing options :
 
 ![EC2 Purchase](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/EC2%20Purchase.PNG)
+
+### EC2 On Demand :
+
+![On Demand](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/EC2%20On%20Demand.PNG)

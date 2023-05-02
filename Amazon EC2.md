@@ -65,3 +65,4 @@ You can connect SSH for EC2 instance via Putty for Windows , EC2 instance connec
 ### EC2 Capacity Reservations :
 
 ![Capacity Reservations](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/EC2%20Capacity%20Reservations.PNG)
+

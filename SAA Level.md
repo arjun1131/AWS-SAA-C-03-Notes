@@ -12,3 +12,15 @@
 The risk of single point of failure increases in this placement group. If rack goes down, the entire set of instances will go down.<br>
 
 ![Cluster](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/Cluster.PNG)
+
+2. Spread :<br>
+  The placement group is used in cases of high availability and critical applications where it must be isolated from single point of failure.<br>
+  
+  ![Spread]()
+  
+3. Partition :<br>
+   It's used as partitions in AZ's . Upto 7 partitions we can create in single AZ's<br>
+   A partition can hold upto 100s of EC2 instances.<br>
+   Instance in partition won't share physical rack.<br>
+   
+   ![Partition]()

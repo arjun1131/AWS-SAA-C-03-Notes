@@ -11,4 +11,4 @@
 1. Cluster - The placement group is used for low latency and high network throughput applications.<br>
 The risk of single point of failure increases in this placement group. If rack goes down, the entire set of instances will go down.<br>
 
-![Cluster](
+![Cluster](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/Cluster.PNG)

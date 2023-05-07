@@ -7,3 +7,4 @@
 
 Delete on Termination attribute determines behavior of EBS volume when its terminated.<br>
 It's ON for root EBS volume and user created EBS volume can be select its own behavior<br> 
+.

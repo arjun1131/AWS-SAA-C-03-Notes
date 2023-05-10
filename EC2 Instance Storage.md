@@ -14,6 +14,13 @@ After creating snapshot , you can re create the setup in another AZ's also.<br>
 ![EBS Features]()
 
 ## Amazon Mchine Images :
+AMI's are customized EC2 instance where you select from AWS made AMI/from AWS Marketplace (sold by some other AWS users)/ you can create your own AMI.<br>
+Own AMI will be having faster reboot time because everything needed will be configured while creating AMI itself.
+AMI Process :
+1. Create a instance and customize it
+2. Stop instance
+3. Build AMI - EBS Snapshot
+4. Launch instance from AMI's
 
 
 

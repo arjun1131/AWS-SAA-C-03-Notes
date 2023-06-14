@@ -33,7 +33,7 @@ General Purpose SSD :
 2. Used for development enviroments
 3. 1 GiB - 16 TiB
 
-Provisioned IOPS :
+Provisioned IOPS :<br>
 io1/io2 : 
 1. Used for applications having more than 16000 IOPS.
 2. 4TiB - 16TiB

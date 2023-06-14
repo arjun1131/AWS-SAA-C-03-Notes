@@ -53,3 +53,5 @@ Hard Disk Drive (HDD)
 2. Each instance has full read and write permissions on EC2 intance which they connected with
 3. Use case - Teradata , managing concurrent read and write transactions.
 
+
+

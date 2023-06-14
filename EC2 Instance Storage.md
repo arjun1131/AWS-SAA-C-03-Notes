@@ -38,5 +38,11 @@ io1/io2 :
 1. Used for applications having more than 16000 IOPS.
 2. 4TiB - 16TiB
 3. Max PIOPS - 64k for Nitro & 32 k for others
-4.  
+io2 Block Express :
+1. size - 4 TiB to 16 TiB
+2. Max PIOPS - 2,56,000
+
+Hard Disk Drive (HDD)
+1. Can't be boot volume
+2. 125GiB - 1TiB
 

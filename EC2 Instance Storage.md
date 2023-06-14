@@ -44,5 +44,7 @@ io2 Block Express :
 
 Hard Disk Drive (HDD)
 1. Can't be boot volume
-2. 125GiB - 1TiB
+2. 125GiB - 16TiB
+![EBS - HDD](https://github.com/arjun1131/AWS-SAA-C-03-Notes/blob/main/AWS%20Images/EBS%20-%20HDD.png)
+
 

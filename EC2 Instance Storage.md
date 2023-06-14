@@ -27,6 +27,16 @@ Its temporary cache storage to EC2 instance which can be used for high performan
 EC2 Instance store has IOPS levels upto 3.3 million read IOPS and 1.4 million IOPS.<br>
 Once instance is terminated , data will be lost. So backup and replication should be taken care.<br>
 
-## 
+## EBS Volume Types :
+General Purpose SSD :
+1. Cost effective , low latency upto 3000 IOPS
+2. Used for development enviroments
+3. 1 GiB - 16 TiB
 
+Provisioned IOPS :
+io1/io2 : 
+1. Used for applications having more than 16000 IOPS.
+2. 4TiB - 16TiB
+3. Max PIOPS - 64k for Nitro & 32 k for others
+4.  
 

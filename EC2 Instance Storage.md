@@ -53,5 +53,10 @@ Hard Disk Drive (HDD)
 2. Each instance has full read and write permissions on EC2 intance which they connected with
 3. Use case - Teradata , managing concurrent read and write transactions.
 
+## EFS - Elastic File System :
+It's a network file system which can be mounted on EC2 instance.
+It can work on EC2 instance in different AZ's
+Expensive(3*gp2) instance , pay per use.
+
 
 
